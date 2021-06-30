@@ -1,6 +1,11 @@
 {
     "apps": [
         {
+            "name": "KAIDex",
+            "url": "https://kaidex.io",
+            "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/0aca55ee239466bc4bbfd01ac9451bcadbabd66e.png"
+        },
+        {
             "name": "BecoSwap",
             "url": "https://becoswap.com",
             "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/087d48e00e3cd1c39c9933567b1975663ddfe80e.png"
@@ -9,6 +14,11 @@
             "name": "Defily",
             "url": "https://defily.io",
             "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/40c7a0b733c5fd4dc2dac6d2c9944c73868bc286.png"
+        },
+        {
+            "name": "Explorer",
+            "url": "https://explorer.kardiachain.io/",
+            "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/0aca55ee239466bc4bbfd01ac9451bcadbabd66e.png"
         }
     ],
     "lastUpdated": 1624269524000
