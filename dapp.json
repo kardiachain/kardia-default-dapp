@@ -6,6 +6,11 @@
             "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/0aca55ee239466bc4bbfd01ac9451bcadbabd66e.png"
         },
         {
+            "name": "SleepEarn",
+            "url": "http://sleepearn.finance/",
+            "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/fa7e0429866a12ec110f7529098d6a1b42e0eb21.png"
+        },
+        {
             "name": "BecoSwap",
             "url": "https://becoswap.com",
             "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/087d48e00e3cd1c39c9933567b1975663ddfe80e.png"
