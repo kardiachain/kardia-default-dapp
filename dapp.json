@@ -8,17 +8,17 @@
         {
             "name": "SleepEarn",
             "url": "https://sleepearn.finance/",
-            "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/fa7e0429866a12ec110f7529098d6a1b42e0eb21.png"
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/sleepearn.png"
         },
         {
             "name": "BecoSwap",
             "url": "https://becoswap.com",
-            "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/087d48e00e3cd1c39c9933567b1975663ddfe80e.png"
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/beco.png"
         },
         {
             "name": "Defily",
             "url": "https://defily.io",
-            "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/40c7a0b733c5fd4dc2dac6d2c9944c73868bc286.png"
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/defily.png"
         },
         {
             "name": "FishCoin",
