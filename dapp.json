@@ -21,9 +21,9 @@
             "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/40c7a0b733c5fd4dc2dac6d2c9944c73868bc286.png"
         },
         {
-            "name": "Cá+",
+            "name": "FishCoin",
             "url": "https://fishcoins.io/fishcoin",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/logo_en.png"
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/fishcoin_128.png"
         },
         {
             "name": "Explorer",
