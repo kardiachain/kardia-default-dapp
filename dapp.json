@@ -3,7 +3,7 @@
         {
             "name": "KAIDex",
             "url": "https://kaidex.io",
-            "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/0aca55ee239466bc4bbfd01ac9451bcadbabd66e.png"
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaidex.png"
         },
         {
             "name": "SleepEarn",
@@ -33,7 +33,7 @@
         {
             "name": "Explorer",
             "url": "https://explorer.kardiachain.io/",
-            "icon": "https://kardiachain-explorer.s3-ap-southeast-1.amazonaws.com/explorer.kardiachain.io/logo/0aca55ee239466bc4bbfd01ac9451bcadbabd66e.png"
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/explorer.png"
         }
     ],
     "lastUpdated": 1624269524000
