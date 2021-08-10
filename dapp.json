@@ -3,7 +3,10 @@
         {
             "name": "KAIDex",
             "url": "https://kaidex.io",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaidex.png"
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaidex.png",
+            "categories": [
+                "DEX"
+            ]
         },
         {
             "name": "SleepEarn",
@@ -49,28 +52,45 @@
         {
             "name": "LiveTrade",
             "url": "https://dapp.livetrade.io",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/ltd.png"
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/ltd.png",
+            "categories": [
+                "Yield Farming"
+            ]
         },
         {
             "name": "Bami Defi",
             "url": "https://kai.bami.money",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/bami.png"
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/bami.png",
+            "categories": [
+                "Lending",
+                "Bridge"
+            ]
         },
         {
             "name": "My Defi Pet",
             "url": "https://play.mydefipet.com/app/games/kardia?refresh=true",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/dpet.png",
-            "allowLandscape": true
+            "allowLandscape": true,
+            "categories": [
+                "NFT",
+                "Game"
+            ]
         },
         {
             "name": "BDS INVEST",
             "url": "https://dapp.bigbds.io",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/bds.png"
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/bds.png",
+            "categories": [
+                "Yield Farming"
+            ]
         },
         {
             "name": "Explorer",
             "url": "https://explorer.kardiachain.io/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/explorer.png"
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/explorer.png",
+            "categories": [
+                "Explorer"
+            ]
         }
     ],
     "lastUpdated": 1624269524000
