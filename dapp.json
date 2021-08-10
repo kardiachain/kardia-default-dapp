@@ -10,27 +10,41 @@
             "url": "https://sleepearn.finance/",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/sleepearn.png",
             "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/sleepearn.png",
-            "featured": true
+            "featured": true,
+            "categories": [
+                "Yield Optimizer"
+            ]
         },
         {
             "name": "BecoSwap",
             "url": "https://becoswap.com",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/beco.png",
             "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/becoswap.png",
-            "featured": true
+            "featured": true,
+            "categories": [
+                "Yield Farming",
+                "NFT"
+            ]
         },
         {
             "name": "Defily",
             "url": "https://defily.io",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/defily.png",
             "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/defily.png",
-            "featured": true
+            "featured": true,
+            "categories": [
+                "Yield Farming",
+                "Yield Optimizer"
+            ]
         },
         {
             "name": "FishCoin",
             "url": "https://fishcoins.io/fishcoin",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/fishcoin_128.png",
-            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/fishcoin.png"
+            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/fishcoin.png",
+            "categories": [
+                "Game"
+            ]
         },
         {
             "name": "LiveTrade",
