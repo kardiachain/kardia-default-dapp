@@ -85,6 +85,14 @@
             ]
         },
         {
+            "name": "Kairdrop",
+            "url": "https://kairdrop.kardiachain.io/",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kairdrop.png",
+            "categories": [
+                "Airdrop"
+            ]
+        },
+        {
             "name": "Explorer",
             "url": "https://explorer.kardiachain.io/",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/explorer.png",
