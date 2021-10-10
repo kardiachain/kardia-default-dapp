@@ -90,6 +90,16 @@
             ]
         },
         {
+            "name": "HanaGold",
+            "url": "https://dapp.hanagold.finance/#/",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/hanagold.png",
+            "categories": [
+                "Yield Farming",
+                "NFT",
+                "Swap"
+            ]
+        },
+        {
             "name": "LiveTrade",
             "url": "https://dapp.livetrade.io",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/ltd.png",
