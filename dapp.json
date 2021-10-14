@@ -80,6 +80,14 @@
             ]
         },
         {
+            "name": "ChatToken DApp",
+            "url": "https://chattoken.net/",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/chat.png",
+            "categories": [
+                "Chat"
+            ]
+        },
+        {
             "name": "KShark",
             "url": "https://kai.kshark.io",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kshark.png",
