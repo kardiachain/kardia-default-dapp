@@ -62,6 +62,15 @@
             ]
         },
         {
+            "name": "Odin DAO",
+            "url": "https://odindao.com",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/defily.png",
+            "categories": [
+                "DAO",
+                "KNS"
+            ]
+        },
+        {
             "name": "Dragon Wars",
             "url": "https://dragonwars.game/#/",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/dragon-wars.png",
