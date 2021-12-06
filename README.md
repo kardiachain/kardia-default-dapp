@@ -18,7 +18,7 @@ To add your DApp to our list, create a Pull Request to this repository. The PR s
 
 ## Disclaimer
 
-1. Verified token does not mean the project is in partnership with KardiaChain
+1. Verified DApp does not mean the project is in partnership with KardiaChain
 2. We do not verify source codes, smart contracts of the DApp.
 3. We do not guarantee the business model of the projects or behaviors of the DApp's owner.
 4. Do your own research and invest at your own risk.
