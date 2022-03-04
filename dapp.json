@@ -30,6 +30,14 @@
             ]
         },
         {
+            "name": "Zorba X",
+            "url": "https://authapp.agoran.io/zorba-x",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/zorbaX.png",
+            "categories": [
+                "NFT Marketplace"
+            ]
+        },
+        {
             "name": "SleepEarn",
             "url": "https://sleepearn.finance/",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/sleepearn.png",
