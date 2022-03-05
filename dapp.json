@@ -33,6 +33,8 @@
             "name": "Zorba X",
             "url": "https://authapp.agoran.io/zorbax",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/zorbaX.png",
+            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/zorbax.jpg",
+            "featured": true,
             "categories": [
                 "NFT Membership"
             ]
