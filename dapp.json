@@ -11,6 +11,16 @@
             ]
         },
         {
+            "name": "Sky Gate",
+            "url": "https://congtroi.org",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/congtroi.png",
+            "categories": [
+                "NFT",
+                "Marketplace",
+                "NFT Membership"
+            ]
+        },
+        {
             "name": "KAIDex",
             "url": "https://kaidex.io",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaidex.png",
@@ -212,17 +222,7 @@
                 "NFT",
                 "Marketplace"
             ]
-        },
-        {
-            "name": "Sky Gate",
-            "url": "https://congtroi.org",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/congtroi.png",
-            "categories": [
-                "NFT",
-                "Marketplace",
-                "NFT Membership"
-            ]
-        }
+        }        
     ],
     "lastUpdated": 1624269524000
 }
