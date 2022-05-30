@@ -1,6 +1,26 @@
 {
     "apps": [
         {
+            "name": "Zorba X",
+            "url": "https://authapp.agoran.io/zorbax",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/zorbaX.png",
+            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/zorbax.jpg",
+            "featured": true,
+            "categories": [
+                "NFT Membership"
+            ]
+        },
+        {
+            "name": "SkyGate",
+            "url": "https://congtroi.org",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/congtroi.png",
+            "categories": [
+                "NFT",
+                "Marketplace",
+                "NFT Membership"
+            ]
+        },
+        {
             "name": "KAIDex",
             "url": "https://kaidex.io",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaidex.png",
@@ -27,14 +47,6 @@
             "categories": [
                 "IDO",
                 "Crowd funding"
-            ]
-        },
-        {
-            "name": "Zorba X",
-            "url": "https://authapp.agoran.io/zorbax",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/zorbaX.png",
-            "categories": [
-                "NFT Membership"
             ]
         },
         {
@@ -201,7 +213,7 @@
                 "NFT",
                 "Marketplace"
             ]
-        }
+        }        
     ],
     "lastUpdated": 1624269524000
 }
