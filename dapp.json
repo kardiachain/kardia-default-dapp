@@ -1,243 +1,172 @@
 {
-    "apps": [
-        {
-            "name": "KAIDex",
-            "url": "https://kaidex.io",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaidex.png",
-            "categories": [
-                "DEX"
-            ]
-        },
-        {
-            "name": "KAIDex v2 (OLD)",
-            "url": "https://v2.kaidex.io",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaidex-v2.png",
-            "categories": [
-                "DEX"
-            ]
-        },
-        {
-            "name": "KAI Staking",
-            "url": "https://staking.kardiachain.io/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kai-staking.png",
-            "categories": [
-                "Stake"
-            ]
-        },
-        {
-            "name": "Zorba X",
-            "url": "https://authapp.agoran.io/zorbax",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/zorbaX.png",
-            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/zorbax.jpg",
-            "featured": true,
-            "categories": [
-                "NFT Membership"
-            ]
-        },
-        {
-            "name": "SkyGate",
-            "url": "https://congtroi.org",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/congtroi.png",
-            "categories": [
-                "NFT",
-                "Marketplace",
-                "NFT Membership"
-            ]
-        },
-        {
-            "name": "KardiaChain Allowance Revoker",
-            "url": "https://revoker.kardiachain.io/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/revoker.png",
-            "categories": [
-                "Tool"
-            ]
-        },
-        {
-            "name": "KAIMOND",
-            "url": "https://kaimond.kardiachain.io",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaimond.png",
-            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/kaimond.png",
-            "featured": true,
-            "categories": [
-                "Private sale",
-                "IDO",
-                "Airdrop"
-            ]
-        },
-        {
-            "name": "Kai Starter",
-            "url": "https://kaistarter.kardiachain.io",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaistarter.png",
-            "categories": [
-                "IDO",
-                "Crowd funding"
-            ]
-        },
-        {
-            "name": "SleepEarn",
-            "url": "https://sleepearn.finance/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/sleepearn.png",
-            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/sleepearn.png",
-            "featured": true,
-            "categories": [
-                "Yield Optimizer"
-            ]
-        },
-        {
-            "name": "BecoSwap",
-            "url": "https://becoswap.com",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/beco.png",
-            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/becoswap.png",
-            "featured": true,
-            "categories": [
-                "Yield Farming",
-                "NFT"
-            ]
-        },
-        {
-            "name": "Defily",
-            "url": "https://defily.io",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/defily.png",
-            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/defily.png",
-            "featured": true,
-            "categories": [
-                "Yield Farming",
-                "Yield Optimizer"
-            ]
-        },
-        {
-            "name": "Odin DAO",
-            "url": "https://odindao.com",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/odin.png",
-            "categories": [
-                "DAO",
-                "KNS"
-            ]
-        },
-        {
-            "name": "Kardia Info",
-            "url": "https://kardiainfo.com/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kardiainfo.png",
-            "categories": [
-                "Oracle"
-            ]
-        },
-        {
-            "name": "Kephi Gallery",
-            "url": "https://exchange.kephi.io/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kephi.png",
-            "categories": [
-                "NFT"
-            ]
-        },
-        {
-            "name": "Kephi Play",
-            "url": "https://play.kephi.io/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kephi_play.png",
-            "categories": [
-                "Game"
-            ]
-        },
-        {
-            "name": "Dragon Wars",
-            "url": "https://dragonwars.game/#/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/dragon-wars.png",
-            "categories": [
-                "NFT",
-                "Game"
-            ]
-        },
-        {
-            "name": "Chat Token",
-            "url": "https://chattoken.net/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/chat.png",
-            "categories": [
-                "Chat",
-                "Yield Farming",
-                "NFT"
-            ]
-        },
-        {
-            "name": "KShark",
-            "url": "https://kai.kshark.io",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kshark.png",
-            "categories": [
-                "Yield Farming",
-                "NFT",
-                "Swap"
-            ]
-        },
-        {
-            "name": "HanaGold",
-            "url": "https://dapp.hanagold.finance/#/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/hanagold.png",
-            "categories": [
-                "Yield Farming",
-                "NFT",
-                "Swap"
-            ]
-        },
-        {
-            "name": "LiveTrade",
-            "url": "https://dapp.livetrade.io",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/ltd.png",
-            "categories": [
-                "Yield Farming"
-            ]
-        },
-        {
-            "name": "Bami Defi",
-            "url": "https://kai.bami.money",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/bami.png",
-            "categories": [
-                "Lending",
-                "Bridge"
-            ]
-        },
-        {
-            "name": "My Defi Pet",
-            "url": "https://play.mydefipet.com/app/games/kardia?refresh=true",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/dpet.png",
-            "allowLandscape": true,
-            "categories": [
-                "NFT",
-                "Game"
-            ]
-        },
-        {
-            "name": "BDS INVEST",
-            "url": "https://dapp.bigbds.io",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/bds.png",
-            "categories": [
-                "Yield Farming"
-            ]
-        },
-        {
-            "name": "Kairdrop",
-            "url": "https://kairdrop.kardiachain.io/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kairdrop.png",
-            "categories": [
-                "Airdrop"
-            ]
-        },
-        {
-            "name": "Explorer",
-            "url": "https://explorer.kardiachain.io/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/explorer.png",
-            "categories": [
-                "Explorer"
-            ]
-        }, 
-        {
-            "name": "Wolfible",
-            "url": "https://wolfible.com/kardia",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/wolfible.png",
-            "categories": [
-                "Yield Farming",
-                "NFT",
-                "Marketplace"
-            ]
-        }        
-    ],
-    "lastUpdated": 1624269524000
+  "apps": [
+    {
+      "name": "KAIDex",
+      "url": "https://kaidex.io",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaidex.png",
+      "categories": ["DEX"]
+    },
+    {
+      "name": "KAIDex v2 (OLD)",
+      "url": "https://v2.kaidex.io",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaidex-v2.png",
+      "categories": ["DEX"]
+    },
+    {
+      "name": "KAI Staking",
+      "url": "https://staking.kardiachain.io/",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kai-staking.png",
+      "categories": ["Stake"]
+    },
+    {
+      "name": "Zorba X",
+      "url": "https://authapp.agoran.io/zorbax",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/zorbaX.png",
+      "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/zorbax.jpg",
+      "featured": true,
+      "categories": ["NFT Membership"]
+    },
+    {
+      "name": "SkyGate",
+      "url": "https://congtroi.org",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/congtroi.png",
+      "categories": ["NFT", "Marketplace", "NFT Membership"]
+    },
+    {
+      "name": "KardiaChain Allowance Revoker",
+      "url": "https://revoker.kardiachain.io/",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/revoker.png",
+      "categories": ["Tool"]
+    },
+    {
+      "name": "KAIMOND",
+      "url": "https://kaimond.kardiachain.io",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaimond.png",
+      "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/kaimond.png",
+      "featured": true,
+      "categories": ["Private sale", "IDO", "Airdrop"]
+    },
+    {
+      "name": "Kai Starter",
+      "url": "https://kaistarter.kardiachain.io",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaistarter.png",
+      "categories": ["IDO", "Crowd funding"]
+    },
+    {
+      "name": "SleepEarn",
+      "url": "https://sleepearn.finance/",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/sleepearn.png",
+      "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/sleepearn.png",
+      "featured": true,
+      "categories": ["Yield Optimizer"]
+    },
+    {
+      "name": "BecoSwap",
+      "url": "https://becoswap.com",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/beco.png",
+      "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/becoswap.png",
+      "featured": true,
+      "categories": ["Yield Farming", "NFT"]
+    },
+    {
+      "name": "Defily",
+      "url": "https://defily.io",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/defily.png",
+      "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/defily.png",
+      "featured": true,
+      "categories": ["Yield Farming", "Yield Optimizer"]
+    },
+    {
+      "name": "Odin DAO",
+      "url": "https://odindao.com",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/odin.png",
+      "categories": ["DAO", "KNS"]
+    },
+    {
+      "name": "Kardia Info",
+      "url": "https://kardiainfo.com/",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kardiainfo.png",
+      "categories": ["Oracle", "Mini-game", "Staking"]
+    },
+    {
+      "name": "Kephi Gallery",
+      "url": "https://exchange.kephi.io/",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kephi.png",
+      "categories": ["NFT"]
+    },
+    {
+      "name": "Kephi Play",
+      "url": "https://play.kephi.io/",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kephi_play.png",
+      "categories": ["Game"]
+    },
+    {
+      "name": "Dragon Wars",
+      "url": "https://dragonwars.game/#/",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/dragon-wars.png",
+      "categories": ["NFT", "Game"]
+    },
+    {
+      "name": "Chat Token",
+      "url": "https://chattoken.net/",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/chat.png",
+      "categories": ["Chat", "Yield Farming", "NFT"]
+    },
+    {
+      "name": "KShark",
+      "url": "https://kai.kshark.io",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kshark.png",
+      "categories": ["Yield Farming", "NFT", "Swap"]
+    },
+    {
+      "name": "HanaGold",
+      "url": "https://dapp.hanagold.finance/#/",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/hanagold.png",
+      "categories": ["Yield Farming", "NFT", "Swap"]
+    },
+    {
+      "name": "LiveTrade",
+      "url": "https://dapp.livetrade.io",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/ltd.png",
+      "categories": ["Yield Farming"]
+    },
+    {
+      "name": "Bami Defi",
+      "url": "https://kai.bami.money",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/bami.png",
+      "categories": ["Lending", "Bridge"]
+    },
+    {
+      "name": "My Defi Pet",
+      "url": "https://play.mydefipet.com/app/games/kardia?refresh=true",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/dpet.png",
+      "allowLandscape": true,
+      "categories": ["NFT", "Game"]
+    },
+    {
+      "name": "BDS INVEST",
+      "url": "https://dapp.bigbds.io",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/bds.png",
+      "categories": ["Yield Farming"]
+    },
+    {
+      "name": "Kairdrop",
+      "url": "https://kairdrop.kardiachain.io/",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kairdrop.png",
+      "categories": ["Airdrop"]
+    },
+    {
+      "name": "Explorer",
+      "url": "https://explorer.kardiachain.io/",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/explorer.png",
+      "categories": ["Explorer"]
+    },
+    {
+      "name": "Wolfible",
+      "url": "https://wolfible.com/kardia",
+      "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/wolfible.png",
+      "categories": ["Yield Farming", "NFT", "Marketplace"]
+    }
+  ],
+  "lastUpdated": 1624269524000
 }
