@@ -25,6 +25,16 @@
             ]
         },
         {
+            "name": "SleepEarn",
+            "url": "https://sleepearn.finance/",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/sleepearn.png",
+            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/sleepearn.png",
+            "featured": true,
+            "categories": [
+                "Yield Optimizer"
+            ]
+        },
+        {
             "name": "Zorba X",
             "url": "https://authapp.agoran.io/zorbax",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/zorbaX.png",
@@ -74,16 +84,6 @@
             ]
         },
         {
-            "name": "SleepEarn",
-            "url": "https://sleepearn.finance/",
-            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/sleepearn.png",
-            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/sleepearn.png",
-            "featured": true,
-            "categories": [
-                "Yield Optimizer"
-            ]
-        },
-        {
             "name": "BecoSwap",
             "url": "https://becoswap.com",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/beco.png",
@@ -120,6 +120,14 @@
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kardiainfo.png",
             "categories": [
                 "Oracle"
+            ]
+        },
+        {
+            "name": "Kephi Staking",
+            "url": "https://staking.kephi.io/stakekai/",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kephi-staking.jpg",
+            "categories": [
+                "Stake"
             ]
         },
         {
