@@ -1,6 +1,16 @@
 {
     "apps": [
         {
+            "name": "Kardia Krush",
+            "url": "https://kardiakrush.com",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kardiakrush.png",
+            "banner": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/banner/kardiakrush.png",
+            "featured": true,
+            "categories": [
+                "Game"
+            ]
+        },        
+        {
             "name": "KAIDex",
             "url": "https://kaidex.io",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kaidex.png",
