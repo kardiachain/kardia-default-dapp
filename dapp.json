@@ -1,6 +1,15 @@
 {
     "apps": [
         {
+            "name": "DApp Win",
+            "url": "https://dappwin.io",
+            "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/dappwin.png",
+            "featured": false,
+            "categories": [
+                "Game"
+            ]
+        },
+        {
             "name": "Kardia Krush",
             "url": "https://kardiakrush.com",
             "icon": "https://raw.githubusercontent.com/kardiachain/kardia-default-dapp/master/logo/kardiakrush.png",
