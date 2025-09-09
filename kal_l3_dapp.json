@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "categories": ["AI", "Art"],
+      "featured": false,
+      "icon": "https://potion.kai.now/favicon.ico",
+      "name": "Potion Craft",
+      "url": "https://potion.kai.now/"
+    }
+  ],
+  "lastUpdated": 1757408876000
+}
