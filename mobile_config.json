@@ -1,0 +1,9 @@
+{
+  "status": "ONLINE",
+  "appVersion": "3.1.1",
+  "serverVersion": "1.0.0",
+  "dexStatus": "OFFLINE",
+  "dualNodeStatus": "OFFLINE",
+  "chainVersion": "ARIS",
+  "appVersionInReview": "3.1.2"
+}
